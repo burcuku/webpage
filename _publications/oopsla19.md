@@ -4,11 +4,9 @@ collection: publications
 permalink: /publication/oopsla19
 excerpt: ''
 date: 2019-10-20
-venue: 'In  Proc. ACM Program.
-Lang., 3(OOPSLA)'
+venue: 'Proceedings of the ACM on Programming Languages (PACMPL), volume 3, number OOPSLA'
 paperurl: ''
-citation: 'Burcu Kulahcioglu Ozkan, Rupak Majumdar, Simin Oraee. &quot;Trace Aware Random Testing for Distributed Systems.&quot; Proc. ACM Program.
-Lang., 3(OOPSLA), October 2019.'
+citation: 'Burcu Kulahcioglu Ozkan, Rupak Majumdar, Simin Oraee. &quot;Trace Aware Random Testing for Distributed Systems.&quot; Proceedings of the ACM on Programming Languages (PACMPL), volume 3, number OOPSLA, October 2019.'
 ---
 
 [pdf](https://dl.acm.org/doi/10.1145/3360606)
