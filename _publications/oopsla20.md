@@ -6,8 +6,10 @@ excerpt: ''
 date: 2020-11-15
 venue: 'Proceedings of the ACM on Programming Languages (PACMPL), volume 4, number OOPSLA'
 paperurl: ''
-citation: 'Cezara Dragoi, Constantin Enea, Burcu Kulahcioglu Ozkan, Rupak Majumdar, Filip Niksic. &quot;Testing Consensus Implementations Using Communication Closure.&quot; Proceedings of the ACM on Programming Languages (PACMPL), volume 4, number OOPSLA, 2020. (to appear)'
+citation: 'Cezara Dragoi, Constantin Enea, Burcu Kulahcioglu Ozkan, Rupak Majumdar, Filip Niksic. &quot;Testing Consensus Implementations Using Communication Closure.&quot; Proceedings of the ACM on Programming Languages (PACMPL), volume 4, number OOPSLA, 2020.'
 ---
+
+[pdf](../files/oopsla20.pdf)
 
 **Abstract.** Large scale production distributed systems are difficult to design and test. Correctness must be ensured when processes run asynchronously, at arbitrary rates relative to each other, and in the presence of failures, e.g., process crashes or message losses. These conditions create a huge space of executions that is difficult to explore in a principled way. Current testing techniques focus on systematic or randomized exploration of all executions of an implementation while treating the implemented algorithms as black boxes. On the other hand, proofs of correctness of many of the underlying algorithms often exploit semantic properties that reduce reasoning about correctness to a subset of behaviors. For example, the communication-closure property, used in many proofs of distributed consensus algorithms, shows that every asynchronous execution of the algorithm is equivalent to a lossy synchronous execution, thus reducing the burden of proof to only that subset. In a lossy synchronous execution, processes execute in lock-step rounds, and messages are either received in the same round or lost forever—such executions form a small subset of all asynchronous ones. 
 
