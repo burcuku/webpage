@@ -1,4 +1,3 @@
-
 ---
 title: "Verifying Robustness of Event-Driven Asynchronous Programs against Concurrency"
 collection: publications
