@@ -15,9 +15,10 @@ My research interests include software testing, debugging, and verification for 
 
 **News/Announcements:**
 
-[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing and distributed systems. 
+[Contact me](mailto:b.ozkan@tudelft.nl) for MSc projects if you are interested in working on software testing and distributed systems. Visit [Reliability of Distributed Software Systems
+](https://se.ewi.tudelft.nl/research-lines/reliability-distributed/) research line for more information.
 
-* I'll give an invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
+* I will give an invited talk at the [SEN Symposium 2021](http://www.sen-symposium.nl) (National Symposium Software Engineering in The Netherlands) on February 18th, 2021.
 * I am excited to start working as an Assist. Prof. in the TU Delft Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) as of 
 September'20.
 * I am honoured to receive the [**Delft Technology Fellowship**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/) award for outstanding female academic researchers.
