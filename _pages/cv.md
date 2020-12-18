@@ -40,16 +40,16 @@ Experience
 Education
 ======
 
-* __Ph.D. Koc University, Istanbul, Turkey, 2016__.  
-	_Thesis_: "Characterization and Verification of Correctness Criteria for Event Driven Asynchronous Programs"
+* __Ph.D.__ Koc University, Istanbul, Turkey, 2016.  
+	Thesis: **Characterization and Verification of Correctness Criteria for Event Driven Asynchronous Programs**
 
-* __MSc. Izmir Institute of Technology, Izmir, Turkey, 2010__.  
-	_Thesis_: "Utilization of Timed Automata as a Verification Tool for Security Protocols" 
+* __MSc.__ Izmir Institute of Technology, Izmir, Turkey, 2010.  
+	Thesis: **Utilization of Timed Automata as a Verification Tool for Security Protocols**
 
-* __BSc. Yeditepe University, Istanbul, Turkey, 2007__.  
-	_Thesis_: "Multiobjective Hyperheuristics for Data Clustering Problem"
+* __BSc.__ Yeditepe University, Istanbul, Turkey, 2007.  
+	Thesis: **Multiobjective Hyperheuristics for Data Clustering Problem**
 
-  
+
 Honors and Awards
 ======
 
