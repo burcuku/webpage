@@ -29,8 +29,11 @@ September'20.
 <details><summary>Older posts</summary>
 
 * Presented "Trace aware testing of distributed systems" at [OOPSLA'19](https://conf.researchr.org/track/splash-2019/splash-2019-oopsla) in Athens.
+
 * Invited talk at Verification of Distributed Systems [VDS'19](http://goto.ucsd.edu/~gleissen/vds-test/) workshop.
+
 * Served in the AEC committee of ECOOP'19.
+
 * Served in the PC committee of CAV'19.
 
 </details>
